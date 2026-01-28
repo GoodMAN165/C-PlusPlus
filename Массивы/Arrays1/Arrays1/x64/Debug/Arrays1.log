@@ -1,0 +1,4 @@
+﻿  Arrays1.cpp
+C:\Users\andrb\OneDrive\Рабочий стол\C++\Arrays1\Arrays1\Arrays1.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\andrb\OneDrive\Рабочий стол\C++\Arrays1\Arrays1\Arrays1.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Arrays1.vcxproj -> C:\Users\andrb\OneDrive\Рабочий стол\C++\Arrays1\x64\Debug\Arrays1.exe
