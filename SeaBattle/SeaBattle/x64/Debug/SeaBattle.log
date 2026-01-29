@@ -1,0 +1,9 @@
+﻿  SeaBattle.cpp
+C:\Users\andrb\OneDrive\Рабочий стол\C++\SeaBattle\SeaBattle\SeaBattle.cpp(23,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andrb\OneDrive\Рабочий стол\C++\SeaBattle\SeaBattle\SeaBattle.cpp(23,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andrb\OneDrive\Рабочий стол\C++\SeaBattle\SeaBattle\SeaBattle.cpp(211,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andrb\OneDrive\Рабочий стол\C++\SeaBattle\SeaBattle\SeaBattle.cpp(254,23): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andrb\OneDrive\Рабочий стол\C++\SeaBattle\SeaBattle\SeaBattle.cpp(259,19): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andrb\OneDrive\Рабочий стол\C++\SeaBattle\SeaBattle\SeaBattle.cpp(316,19): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andrb\OneDrive\Рабочий стол\C++\SeaBattle\SeaBattle\SeaBattle.cpp(360,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SeaBattle.vcxproj -> C:\Users\andrb\OneDrive\Рабочий стол\C++\SeaBattle\x64\Debug\SeaBattle.exe
